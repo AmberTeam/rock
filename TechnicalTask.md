@@ -10,7 +10,7 @@ Release - 01.03.2023
 
 # 2. Team
 * [uaquax](https://github.com/uaquax) - rock
-* [uorbius](https://giuthub.com/uorbius) - RockHub
+* [uorbius](https://github.com/uorbius) - RockHub
 
 ## 2.1. Technologies
 
